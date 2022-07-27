@@ -47,6 +47,7 @@ print(ip)
 
 
 * LINE BOT 函式庫&抓取系統 IP Address
+
 from linebot import LineBotApi  
 from linebot.models import TextSendMessage  
 import netifaces as ni  
